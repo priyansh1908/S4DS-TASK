@@ -23,4 +23,5 @@
 4. Add your dataset files to the data folder and notebooks to the notebooks folder:
 
    Place your dataset files in the data/ folder.
+   
    Place your Jupyter notebooks in the notebooks/ folder.
