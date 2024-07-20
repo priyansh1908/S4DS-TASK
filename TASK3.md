@@ -3,7 +3,7 @@
 ## Objectives for Model Fitting:
 - Accuracy: Achieve high predictive performance on unseen data.
 - Generalization: Ensure the model performs well across data.
-- 
+
 ## Requirements for Model Fitting:
 - Make sure that the data is clean and is applicable to a model
 - The selection of the algorithm should be done taking into consideration the nature of
