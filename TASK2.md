@@ -13,5 +13,5 @@ of the data, ensuring cleanliness, etc.)
 variables as well as the outliers and anomalies
 - Come up with meaningful conclusions about the data based on your observations
 
-##REFERENCE: 
-EDA
+## REFERENCE: 
+https://www.youtube.com/watch?v=fHFOANOHwh8
